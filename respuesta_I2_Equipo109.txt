@@ -1,0 +1,8 @@
+TP 2
+respuestas: 
+- Gonzalo Vilte ALFA
+- Martin Vilas BETA
+- Mateo Alvarez GAMMA
+
+C - No. los forks son repostorios independientes. BETA
+D - No, no se pierden. si no hay conflicto con los cambios, Git los matiene. BETA
